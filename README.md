@@ -1,1 +1,0 @@
-# lafia_project
