@@ -41,6 +41,11 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
     3. Training Process: During training, the model iteratively processes each batch, updates its parameters (weights), and aims to minimize the loss function. The first batch, or "train_batch0," initiates this process.<br>
     4. Composition: A batch typically contains a set number of samples (e.g., images, text snippets, data points) along with their corresponding labels (in supervised learning scenarios).</p>
 
+<p>
+    <img src="home.jpg" >
+<br>"train_batch1" refers to the second batch of training data used in the training phase of a machine learning or deep learning model. Numbering typically starts at 0, so "train_batch1" is the batch that follows "train_batch0". It contains a subset of the training data, which is processed by the model to update its parameters and improve performance.</p>
+  
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
