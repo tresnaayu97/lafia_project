@@ -34,7 +34,11 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 ## Result
 <p>
- <img src="home.jpg" >
+    <img src="home.jpg" >
+<br>Batch: In machine learning, data is often divided into smaller subsets called batches to manage memory usage and speed up the training process. "train_batch0" usually refers to the first batch of training data.
+Contents of the Batch: Typically, "train_batch0" will contain a set of images or data examples that have been sampled from the training dataset. For example, if you're training an image recognition model, this batch might consist of several images selected from the dataset.
+Visualization: The "train_batch0" image may display the examples contained in this batch, often arranged in a grid or some other format. This visualization helps in verifying that the images are correctly loaded and representative of the training data.</p>
+Additional Information: The image might also include additional details such as image labels (if applicable), batch size, or other relevant information useful for analyzing the batch.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
