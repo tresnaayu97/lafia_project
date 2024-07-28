@@ -33,7 +33,8 @@ The dataset was obtained from Roboflow and consists of 2452 images with 2 classe
 The model was trained using transfer learning with YOLOv8 on a custom dataset from Roboflow. Once trained, the custom YOLOv8 model was converted to TensorFlow Lite for deployment on Android.
 
 ## Result
-
+<p>
+ <img src="home.jpg" >
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -47,6 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 <p>Creator
+    
 <br>Tresna Ayu Safitri<p/>
 
 
