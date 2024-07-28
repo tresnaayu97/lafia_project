@@ -47,8 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 <p>Creator
-    
-<br>Tresna Ayu Safitri (NIM 206230007)<p/>
+<br>Tresna Ayu Safitri<p/>
 
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
