@@ -35,15 +35,16 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 ## Result
 <p>
     <img src="home.jpg" >
-<br>"train_batch0" typically refers to the first batch of training data in the context of machine learning or deep learning.<br>
-    1. Training Batch: In machine learning, training data is often divided into smaller subsets called batches. These batches are used to feed data into the model in portions rather than all at once, which helps in managing memory usage and can make the training process more efficient.<br>
-    2. First Batch (Batch 0): The term "train_batch0" indicates that it is the very first batch of data used during the training phase of a model. The numbering usually starts at 0, following the convention in programming where counting starts from zero.<br>
-    3. Training Process: During training, the model iteratively processes each batch, updates its parameters (weights), and aims to minimize the loss function. The first batch, or "train_batch0," initiates this process.<br>
-    4. Composition: A batch typically contains a set number of samples (e.g., images, text snippets, data points) along with their corresponding labels (in supervised learning scenarios).</p>
+<br>"train_batch0" refers to the first batch of training data used in the training phase of a machine learning or deep learning model. It contains the initial subset of the training data, which the model processes to begin updating its parameters and improving performance.</p>
 
 <p>
     <img src="home.jpg" >
-<br>"train_batch1" refers to the second batch of training data used in the training phase of a machine learning or deep learning model. Numbering typically starts at 0, so "train_batch1" is the batch that follows "train_batch0". It contains a subset of the training data, which is processed by the model to update its parameters and improve performance.</p>
+<br></p>
+
+<p>
+    <img src="home.jpg" >
+<br>
+    
   
 
 ## License
